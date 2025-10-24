@@ -8,7 +8,7 @@ https://cdn.jsdelivr.net/gh/ShisakankoY/clickEventRun@main/clickEventRun.js
 
 構文
 clickEventRun(selector, callback);
-別途でボタンを作成しselectorに入れ、関数をcallbackに入れてください。
+別途でボタンを作成しselectorに入れ、関数をcallbackに入れてください。(アロー関数でも大丈夫です。)
 
 /English/
 This repository converts a button click event listener into a function.
@@ -17,5 +17,5 @@ https://cdn.jsdelivr.net/gh/ShisakankoY/clickEventRun@main/clickEventRun.js
 
 Syntax
 clickEventRun(selector, callback);
-Create a separate button, set the selector, and set the function in the callback.
+Create a separate button, set the selector, and set the function in the callback.(Arrow functions are also fine.)
 
